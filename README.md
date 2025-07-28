@@ -1,7 +1,7 @@
-#Laptop Price Predictor
+## Laptop Price Predictor
 A comprehensive machine learning project that predicts laptop prices based on technical specifications using web-scraped data from Flipkart and advanced regression models.
 
-#Project Overview
+## Project Overview
 This end-to-end machine learning project combines web scraping, data engineering, exploratory data analysis, and model deployment to create an intelligent laptop price prediction system. The project demonstrates proficiency in data collection, feature engineering, automated ML, and production deployment.
 
 # Key Features
